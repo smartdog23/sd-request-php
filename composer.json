@@ -1,0 +1,7 @@
+{
+    "name": "smartdog23/sd-request-php",
+    "description": "PHP Request Component",
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
